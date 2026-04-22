@@ -109,6 +109,9 @@
 \usepackage{graphicx}
 \graphicspath{{src/assets/}}
 
+\setlength{\intextsep}{\baselineskip}    % Отступ для рисунков внутри текста
+\setlength{\textfloatsep}{\baselineskip} % Отступ для рисунков вверху/внизу страницы
+
 % Пакет для формул
 \usepackage{amsmath, amsfonts, amssymb}
 
@@ -159,7 +162,7 @@
 \tableofcontents
 
 \input{src/001-intro}
-\input{src/002-chapter-one}
+\input{src/002-chapter}
 \input{src/003-conclusion}
 \input{src/004-bilio}
 \input{src/005-appendix}

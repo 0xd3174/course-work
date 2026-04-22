@@ -17,6 +17,7 @@
 │   ├── 003-conclusion.tex — заключение.
 │   ├── 004-biblio.tex — библиография.
 │   ├── 005-appendix.tex — приложение.
+│   └── example.tex — референсы на разные элементы. 
 ├── biblio.bib — библиографическая база.
 └── latexmkrc конфигурация сборки.
 ```
@@ -62,5 +63,5 @@ latexmk -C
 - пакет `extsizes`
 - пакет `titlesec`
 - пакет `tocloft`
-- шрифты: `corefonts` (в частности Times New Roman)
-- для библиографии: `zotero` + Better BibLaTeX
+- шрифты `corefonts` (в частности Times New Roman)
+- для библиографии `zotero` + Better BibLaTeX

@@ -1,0 +1,57 @@
+%%%%%%%%%%%%%%%%%
+%%% STRUCTURE %%%
+%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{titlepage}
+\end{titlepage}
+
+\renewcommand{\contentsname}{СОДЕРЖАНИЕ}
+\tableofcontents
+
+\chapter*{ВВЕДЕНИЕ}
+\addcontentsline{toc}{chapter}{ВВЕДЕНИЕ}
+
+\chapter{ПЕРВАЯ ГЛАВА}
+    \section{ПЕРВАЯ ПОДГЛАВА}
+
+\chapter{ВТОРАЯ ГЛАВА}
+    \section{ПЕРВАЯ ПОДГЛАВА}
+
+\chapter*{ЗАКЛЮЧЕНИЕ}
+\addcontentsline{toc}{chapter}{ЗАКЛЮЧЕНИЕ}
+
+\printbibliography[title={БИБЛИОГРАФИЧЕСКИЙ СПИСОК}]
+
+\end{document}
+
+%%%%%%%%%%%%%
+%%% IMAGE %%%
+%%%%%%%%%%%%%
+
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.8\textwidth]{002-img1} % Из папки assets, без расширения
+    \caption{Placeholder image}
+    \label{fig:placeholder_image}
+\end{figure}
+
+REF \ref{fig:placeholder_image}
+
+%%%%%%%%%%%%%%%%
+%%% CITATION %%%
+%%%%%%%%%%%%%%%%
+
+CITATION \cite{smirnov2025latex}
+
+%%%%%%%%%%%%%%%
+%%% FORMULA %%%
+%%%%%%%%%%%%%%%
+
+\begin{equation}
+    y = \alpha x^2 + \beta x + \gamma
+    \label{eq:placeholder_formula}
+\end{equation}
+
+REF \eqref{eq:placeholder_formula}
