@@ -1,0 +1,167 @@
+\documentclass[a4paper,14pt]{extreport}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Кодировка и шрифты %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{polyglossia}
+\setmainlanguage{russian}
+\setotherlanguage{english}
+
+\usepackage{fontspec}
+
+\setmainfont{Times New Roman}
+\newfontfamily{\cyrillicfont}{Times New Roman}[Script=Cyrillic]
+
+\setmonofont{Courier New} 
+\newfontfamily{\cyrillicfonttt}{Courier New}[Script=Cyrillic]
+
+%%%%%%%%%%%%%%%
+%%% Отступы %%%
+%%%%%%%%%%%%%%%
+
+% Поля
+\usepackage[left=30mm, right=15mm, top=20mm, bottom=20mm]{geometry}
+
+% Полуторный интервал
+\usepackage{setspace}
+\onehalfspacing
+
+% Абзацный отступ
+\usepackage{indentfirst}
+\setlength{\parindent}{1.25cm}
+
+%%%%%%%%%%%%%%%%%
+%%% Заголовки %%%
+%%%%%%%%%%%%%%%%%
+
+\usepackage{titlesec}
+\usepackage[titles]{tocloft}
+
+% Убираем слово "Глава" из заголовков глав
+\renewcommand{\chaptername}{}
+
+\titleformat{\chapter}[block]
+  {\large\filcenter}
+  {\thechapter.}
+  {1ex}
+  {}
+
+\titlespacing*{\chapter}{0pt}{-20pt}{15pt}
+
+\titleformat{\section}[block]
+  {}
+  {\thesection}
+  {1ex}
+  {\addfontfeatures{LetterSpace=5}}
+
+\titlespacing*{\section}{1.25cm}{0pt}{0pt}
+
+\titleformat{\subsection}[block]
+  {}
+  {\thesubsection}
+  {1ex}
+  {\addfontfeatures{LetterSpace=4}}
+
+\titlespacing*{\subsection}{1.25cm}{0pt}{0pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Стиль для оглавления %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Обычный шрифт для глав
+\renewcommand{\cftchapfont}{\normalfont}
+\renewcommand{\cftchappagefont}{\normalfont}
+
+% Добавляем точки-заполнители для глав (по умолчанию их нет)
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
+% Убираем увеличенный вертикальный отступ перед каждой главой
+\setlength{\cftbeforechapskip}{0pt}
+
+% Добавляем точку после номера главы в оглавлении (чтобы было "1. ", а не "1 ")
+\renewcommand{\cftchapaftersnum}{.}
+
+% Настройка отступов (выравниваем номера подразделов под текст глав)
+\setlength{\cftchapindent}{0pt}       % Отступ главы от левого края (без отступа)
+\setlength{\cftchapnumwidth}{1em}   % Место под номер главы "1. "
+\setlength{\cftsecindent}{1em}      % Отступ подраздела (равен \cftchapnumwidth)
+\setlength{\cftsecnumwidth}{1.75em}    % Место под номер подраздела "1.1 "
+
+
+%%%%%%%%%%%%%%%%%%%%
+%%% Библиография %%%
+%%%%%%%%%%%%%%%%%%%%
+
+\usepackage[
+    parentracker=true,
+    backend=biber,
+    style=gost-numeric,
+    sorting=none
+]{biblatex}
+\addbibresource{biblio.bib}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% Дополнительные пакеты %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Пакет для изображений
+\usepackage{graphicx}
+\graphicspath{{src/assets/}}
+
+% Пакет для формул
+\usepackage{amsmath, amsfonts, amssymb}
+
+% Пакет для подписей
+\usepackage{caption}
+\DeclareCaptionLabelSeparator{emdash}{~— } % Неразрывный пробел + длинное тире
+
+\captionsetup[figure]{
+    labelsep=emdash,
+    justification=centering
+}
+
+% Пакет для гиперссылок
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, allcolors=black}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%
+%%% Титульный лист %%% 
+%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{titlepage}
+    \begin{center}
+        \textbf{МИНИСТЕРСТВО ОБРАЗОВАНИЯ И НАУКИ}\\
+        \vspace{4cm}
+        \Large\textbf{КУРСОВАЯ РАБОТА}\\
+        \normalsize на тему:\\
+        \large\textbf{«Автоматизация сборки документов в NixOS»}\\
+    \end{center}
+    \vspace{5cm}
+    \begin{flushright}
+        Выполнил: студент гр. 101\\
+        Иванов И.И.\\
+        Проверил: к.т.н., доцент\\
+        Петров П.П.
+    \end{flushright}
+    \vfill
+    \begin{center} 2026 \end{center}
+\end{titlepage}
+
+% Оглавление = вторая страница, титульный = первая
+\clearpage
+\setcounter{page}{2}
+
+% Оглавление
+\renewcommand{\contentsname}{СОДЕРЖАНИЕ}
+\tableofcontents
+
+\input{src/001-intro}
+\input{src/002-chapter-one}
+\input{src/003-conclusion}
+\input{src/004-bilio}
+\input{src/005-appendix}
+
+\end{document}
