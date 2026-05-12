@@ -1,6 +1,13 @@
 # Курсовая работа (LaTeX)
 
+![ГОСТ](https://img.shields.io/badge/%D0%93%D0%9E%D0%A1%D0%A2-1F2937?style=for-the-badge&logo=readthedocs&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![biblatex](https://img.shields.io/badge/biblatex-000000?style=for-the-badge&logo=latex&logoColor=white)
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+
 Данный репозиторий содержит минимальный шаблон для написания курсовой работы по ГОСТ. Проект выполняет следующие задачи:
+
 
 - Подготовка курсовой в структурированном виде с разбиением на отдельные файлы (с поддержкой изображений, формул).
 - Автоматическая однокомандная сборка итогового PDF через `latexmk`.
@@ -51,7 +58,7 @@ latexmk -C
 
 ## Необходимые пакеты и инструменты
 
-Подробнее в конфиге: https://github.com/0xd3174/dotfiles/blob/master/home/apps/vscode.nix
+Подробнее в флейке: https://github.com/0xd3174/course-work/blob/master/flake.nix
 
 Минимально нужны:
 
@@ -63,5 +70,6 @@ latexmk -C
 - пакет `extsizes`
 - пакет `titlesec`
 - пакет `tocloft`
+- пакет `enumitem`
 - шрифты `corefonts` (в частности Times New Roman)
 - для библиографии `zotero` + Better BibLaTeX
