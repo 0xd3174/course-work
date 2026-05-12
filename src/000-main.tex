@@ -1,4 +1,4 @@
-\documentclass[a4paper,14pt]{extreport}
+\documentclass[a4paper,12pt]{extreport}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Кодировка и шрифты %%%
@@ -15,6 +15,11 @@
 
 \setmonofont{Courier New}
 \newfontfamily{\cyrillicfonttt}{Courier New}[Script=Cyrillic]
+
+%$\usepackage{microtype}        % Умная микротипографика
+%\emergencystretch=1em         % Помощь при сложных переносах
+%\hyphenpenalty=500            % Немного снижаем строгость переносов
+\sloppy
 
 %%%%%%%%%%%%%%%
 %%% Отступы %%%
@@ -131,6 +136,9 @@
 % Пакет для гиперссылок
 \usepackage{hyperref}
 \hypersetup{colorlinks=true, allcolors=black}
+
+% Пакет для списков
+\usepackage{enumitem}
 
 \begin{document}
 

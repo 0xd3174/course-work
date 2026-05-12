@@ -16,5 +16,101 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{unwaterWaterProsperityPeace2024}{book}{}{}
+      \name{editor}{1}{}{%
+        {{hash=91a0b89abed95937732952364385620b}{%
+           family={{UN Water}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {UNESCO}%
+      }
+      \strng{editorbibnamehash}{91a0b89abed95937732952364385620b}
+      \strng{editornamehash}{91a0b89abed95937732952364385620b}
+      \strng{editorfullhash}{91a0b89abed95937732952364385620b}
+      \strng{editorfullhashraw}{91a0b89abed95937732952364385620b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-92-3-100657-9}
+      \field{langid}{english}
+      \field{pagetotal}{153}
+      \field{series}{The {{United Nations World Water Development Report}}}
+      \field{title}{Water for Prosperity and Peace}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{number}{2024}
+      \range{number}{1}
+    \endentry
+    \entry{pobozyApplicationCapillaryElectrophoresis2021b}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=0e6d5b0b5991798a894234a54a678566}{%
+           family={Poboży},
+           familyi={P\bibinitperiod},
+           given={Ewa},
+           giveni={E\bibinitperiod}}}%
+        {{hash=094dd12d1391f3c9d124351d92ce1a68}{%
+           family={Trojanowicz},
+           familyi={T\bibinitperiod},
+           given={Marek},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{331ba1c1b11224e4664588951ebf3d2f}
+      \strng{fullhash}{331ba1c1b11224e4664588951ebf3d2f}
+      \strng{fullhashraw}{331ba1c1b11224e4664588951ebf3d2f}
+      \strng{bibnamehash}{331ba1c1b11224e4664588951ebf3d2f}
+      \strng{authorbibnamehash}{331ba1c1b11224e4664588951ebf3d2f}
+      \strng{authornamehash}{331ba1c1b11224e4664588951ebf3d2f}
+      \strng{authorfullhash}{331ba1c1b11224e4664588951ebf3d2f}
+      \strng{authorfullhashraw}{331ba1c1b11224e4664588951ebf3d2f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Aside from HPLC and GC, capillary electrophoresis (CE) is one of the most important techniques for high-performance separations in modern analytical chemistry. Its main advantages are the possibility of using different detection techniques, the possibility of in-capillary sample processing for preconcentration or derivatization, and ease of instrumental miniaturization down to the microfluidic scale. Those features are utilized in the separation of macromolecules in biochemistry and in genetic investigations, but they can be also used in determinations of inorganic ions in water analysis. This review, based on about 100 original research works, presents applications of CE methods in water analysis reported in recent decade, mostly regarding conductivity detection or indirect UV detection. The developed applications include analysis of high salinity sea waters, as well as analysis of other surface waters and drinking waters.}
+      \field{day}{18}
+      \field{eprinttype}{pubmed}
+      \field{internalsortvolume}{26}
+      \field{issn}{1420-3049}
+      \field{journaltitle}{Molecules}
+      \field{month}{11}
+      \field{shortjournal}{Molecules}
+      \field{title}{Application of {{Capillary Electrophoresis}} for {{Determination}} of {{Inorganic Analytes}} in {{Waters}}}
+      \field{urlday}{12}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{number}{22}
+      \range{number}{1}
+      \field{pages}{6972}
+      \range{pages}{1}
+      \field{volume}{26}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3390/molecules26226972
+      \endverb
+      \verb{eprint}
+      \verb 34834063
+      \endverb
+      \verb{file}
+      \verb /home/delta/Zotero/storage/LS6VIEEI/Poboży and Trojanowicz - 2021 - Application of Capillary Electrophoresis for Determination of Inorganic Analytes in Waters.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC8625978/
+      \endverb
+      \verb{url}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC8625978/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
