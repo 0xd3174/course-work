@@ -1213,6 +1213,830 @@
       \verb 10.3390/molecules30071383
       \endverb
     \endentry
+    \entry{pndf141231592025}{standard}{}{}
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {ФГБУ «ФЦАО»}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{ПНД Ф 14.1:2:3.159-2025 Количественный химический анализ вод. Методика измерений массовой концентрации сульфат-ионов в природных (поверхностных и подземных) и сточных водах турбидиметрическим методом}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{number}{ПНД Ф 14.1:2:3.159\bibrangedash 2025}
+      \range{number}{-1}
+    \endentry
+    \entry{jannahAnalasisKonsentrasiIon2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=2e7af51e5c4286c4c3ec972238514b26}{%
+           family={Jannah},
+           familyi={J\bibinitperiod},
+           given={Zelika\bibnamedelima Nur},
+           giveni={Z\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=7c76e192dc4d9e0c27128016309e950c}{%
+           family={Herawati},
+           familyi={H\bibinitperiod},
+           given={Dheasy},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3c73e7e6b810b2bd3aaa7029d7f5f569}{%
+           family={Ngibad},
+           familyi={N\bibinitperiod},
+           given={Khoirul},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{8288d11f988f765cd6df222baf69e8f5}
+      \strng{fullhash}{8288d11f988f765cd6df222baf69e8f5}
+      \strng{fullhashraw}{8288d11f988f765cd6df222baf69e8f5}
+      \strng{bibnamehash}{8288d11f988f765cd6df222baf69e8f5}
+      \strng{authorbibnamehash}{8288d11f988f765cd6df222baf69e8f5}
+      \strng{authornamehash}{8288d11f988f765cd6df222baf69e8f5}
+      \strng{authorfullhash}{8288d11f988f765cd6df222baf69e8f5}
+      \strng{authorfullhashraw}{8288d11f988f765cd6df222baf69e8f5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{internalsortvolume}{16}
+      \field{journaltitle}{Jurnal Pijar Mipa}
+      \field{langid}{indonesian}
+      \field{month}{3}
+      \field{title}{REVIEW: Analisis Konsentrasi Ion Sulfat dalam Air Menggunakan Spektrofotometri}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{203\bibrangedash 206}
+      \range{pages}{4}
+      \field{volume}{16}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.29303/jpm.v16i2.1907
+      \endverb
+    \endentry
+    \entry{gost330452014}{standard}{}{}
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Стандартинформ}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{ГОСТ 33045-2014 Вода. Методы определения азотсодержащих веществ}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{number}{ГОСТ 33045\bibrangedash 2014}
+      \range{number}{-1}
+      \verb{urlraw}
+      \verb https://docs.cntd.ru/document/1200118625
+      \endverb
+      \verb{url}
+      \verb https://docs.cntd.ru/document/1200118625
+      \endverb
+    \endentry
+    \entry{chenUltravioletSpectroscopicDetection2021}{article}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=d001bce88e27fe293cfaf3708133e2ec}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a38a25993ef9a206164dfb02c729091c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhaohui},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=f85cabb1a2e18ac04323dc41a75f678d}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yanjun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=456dd6a18b8241b9d36da968a7c4d624}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bac6a7a5d8c835c2ebe5288a6fe722b4}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{1d5d870a01415c6aba4944b5478b345a}
+      \strng{authornamehash}{1d5d870a01415c6aba4944b5478b345a}
+      \strng{authorfullhash}{62d676771d6e2affa8f7250afcbc5b45}
+      \strng{authorfullhashraw}{62d676771d6e2affa8f7250afcbc5b45}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{internalsortvolume}{21}
+      \field{journaltitle}{Sensors}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Ultraviolet Spectroscopic Detection of Nitrate and Nitrite in Seawater Simultaneously Based on Partial Least Squares}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{number}{12}
+      \range{number}{1}
+      \field{pages}{4116}
+      \range{pages}{1}
+      \field{volume}{21}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3390/s21124116
+      \endverb
+    \endentry
+    \entry{gost438689}{standard}{}{}
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Издательство стандартов}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{ГОСТ 4386-89 Вода питьевая. Методы определения содержания фтора}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{number}{ГОСТ 4386\bibrangedash 89}
+      \range{number}{-1}
+      \verb{urlraw}
+      \verb https://docs.cntd.ru/document/1200008212
+      \endverb
+      \verb{url}
+      \verb https://docs.cntd.ru/document/1200008212
+      \endverb
+    \endentry
+    \entry{mariamSpectroscopicDeterminationFluoride2021}{article}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=7fc1b80dd4d723bbbefdb63e22f79f85}{%
+           family={G/Mariam},
+           familyi={G\bibinitperiod},
+           given={Atinafu},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fdf59ff2b4c091eb94e7796204529241}{%
+           family={Diro},
+           familyi={D\bibinitperiod},
+           given={Abebe\bibnamedelima Abeshu},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f97e8708949c3c275f69e8abab955c22}{%
+           family={Asere},
+           familyi={A\bibinitperiod},
+           given={Tsegaye\bibnamedelima Girma},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=38e8adbc03172f21cab88643f8059a2c}{%
+           family={Jado},
+           familyi={J\bibinitperiod},
+           given={Demelash},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ed49bf62cd0f46bd69919aacabb9c201}{%
+           family={Melak},
+           familyi={M\bibinitperiod},
+           given={Fekadu},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{6a049c21944ed8ffd528ad33541952e0}
+      \strng{authornamehash}{6a049c21944ed8ffd528ad33541952e0}
+      \strng{authorfullhash}{a67a90714acdc15c2b1a8f89243b8643}
+      \strng{authorfullhashraw}{a67a90714acdc15c2b1a8f89243b8643}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
+      \field{internalsortvolume}{2021}
+      \field{journaltitle}{International Journal of Analytical Chemistry}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{title}{Spectroscopic Determination of Fluoride Using Eriochrome Black T (EBT) as a Spectrophotometric Reagent from Groundwater}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{2045491}
+      \range{pages}{1}
+      \field{volume}{2021}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1155/2021/2045491
+      \endverb
+    \endentry
+    \entry{gost183092014}{standard}{}{}
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Стандартинформ}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{ГОСТ 18309-2014 Вода. Методы определения фосфорсодержащих веществ}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{number}{ГОСТ 18309\bibrangedash 2014}
+      \range{number}{-1}
+      \verb{urlraw}
+      \verb https://docs.cntd.ru/document/1200118610
+      \endverb
+      \verb{url}
+      \verb https://docs.cntd.ru/document/1200118610
+      \endverb
+    \endentry
+    \entry{linSpectrophotometricDeterminationPhosphate2025}{article}{useauthor=false}{}
+      \name{author}{7}{}{%
+        {{hash=c79c3495e9a8e2338e0337da656c3a4a}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Kunning},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f799a1604b757fda1e87c85f10b436d3}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Shuyuan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b69c54265da967e383c72869e3583999}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Chuanjie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cfd4a921b5e13d3adad21bf5d0fb342c}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Ronggen},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c192742f19141562ab08b13a0d9cf23a}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ee4bcc701c3dd527997472303c430d3a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yuanbiao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=28b6504d56c03d7d44c0ecca06ae0869}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{e4514cb311b6b911f5a82e9d72d7060b}
+      \strng{authornamehash}{e4514cb311b6b911f5a82e9d72d7060b}
+      \strng{authorfullhash}{b699dfb2a62ce2ef91591796535dfdec}
+      \strng{authorfullhashraw}{b699dfb2a62ce2ef91591796535dfdec}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{internalsortvolume}{330}
+      \field{journaltitle}{Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{Spectrophotometric determination of phosphate using sodium molybdate and its field application to the simultaneous measurement with ammonium in seawater}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{pages}{125683}
+      \range{pages}{1}
+      \field{volume}{330}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.saa.2024.125683
+      \endverb
+    \endentry
+    \entry{liApplicationsTwodimensionalIon2023}{article}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=f2e68269a7e4b5255a15782127fb86e6}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Chunmei},
+           giveni={C\bibinitperiod}}}%
+        {{hash=76528c1df479556b8fd30ac22f9a4e18}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Bingcheng},
+           giveni={B\bibinitperiod}}}%
+        {{hash=372db43fc12b12d7ffffe8597db47d9d}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Hongshan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=460f4bf453f3968de048f505e3c7df59}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zhenshan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=a5231a9f4abf95501926d3f878d3cd52}{%
+           family={Wan},
+           familyi={W\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{24b32f7beda5fb00953122a744a12402}
+      \strng{authornamehash}{24b32f7beda5fb00953122a744a12402}
+      \strng{authorfullhash}{43acabf18f94d285508e7f7941ef66cb}
+      \strng{authorfullhashraw}{43acabf18f94d285508e7f7941ef66cb}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{internalsortvolume}{1694}
+      \field{issn}{0021-9673}
+      \field{journaltitle}{Journal of Chromatography A}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{shortjournal}{J. Chromatogr. A}
+      \field{title}{Applications of Two-Dimensional Ion Chromatography for Analytes Determination in Environmental Matrix: {A} Review}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{463908}
+      \range{pages}{1}
+      \field{volume}{1694}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.chroma.2023.463908
+      \endverb
+    \endentry
+    \entry{pndf141244132}{standard}{}{}
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {ФГБУ «ФЦАО»}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{ПНД Ф 14.1:2:4.132-98 Количественный химический анализ вод. Методика выполнения измерений массовой концентрации анионов: нитрита, нитрата, хлорида, фторида, сульфата и фосфата в пробах природной, питьевой и сточной воды методом ионной хроматографии}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{number}{ПНД Ф 14.1:2:4.132\bibrangedash 98}
+      \range{number}{-1}
+      \verb{urlraw}
+      \verb https://docs.cntd.ru/document/1200055534
+      \endverb
+      \verb{url}
+      \verb https://docs.cntd.ru/document/1200055534
+      \endverb
+    \endentry
+    \entry{filiposkaSpasicValidationIon2025}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=6f3ee1e8277ab9dc4a89bc444e6f421c}{%
+           family={Filiposka-Spasic},
+           familyi={F\bibinithyphendelim S\bibinitperiod},
+           given={Sonja},
+           giveni={S\bibinitperiod}}}%
+        {{hash=05974438304357ca28c07f7580c689bf}{%
+           family={Petkovska},
+           familyi={P\bibinitperiod},
+           given={Snezana},
+           giveni={S\bibinitperiod}}}%
+        {{hash=97e29c3572c950d2026272d72c446ddc}{%
+           family={Janeva},
+           familyi={J\bibinitperiod},
+           given={Marija},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6c383f9d703fd73bce374c7a1e4b2a61}{%
+           family={Gjorgjeska},
+           familyi={G\bibinitperiod},
+           given={Biljana},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{0fb5f0dbbf897244facc13734c217e5c}
+      \strng{authornamehash}{0fb5f0dbbf897244facc13734c217e5c}
+      \strng{authorfullhash}{ac8892a649cd4f6e1bca32fdcbd1c44d}
+      \strng{authorfullhashraw}{ac8892a649cd4f6e1bca32fdcbd1c44d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{71}
+      \field{journaltitle}{Macedonian Pharmaceutical Bulletin}
+      \field{langid}{english}
+      \field{shortjournal}{Maced. Pharm. Bull.}
+      \field{title}{Validation of Ion Chromatographic Method for Determination of Inorganic Anions in Bottled Water}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{31\bibrangedash 41}
+      \range{pages}{11}
+      \field{volume}{71}
+      \range{volume}{1}
+      \verb{urlraw}
+      \verb https://bulletin.mfd.org.mk/volumes/Volume%2071_1/71_1_004.pdf
+      \endverb
+      \verb{url}
+      \verb https://bulletin.mfd.org.mk/volumes/Volume%2071_1/71_1_004.pdf
+      \endverb
+    \endentry
+    \entry{hauserContactlessConductivityDetection2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=69edb60bfbfdec73f6d27e56db755bc1}{%
+           family={Hauser},
+           familyi={H\bibinitperiod},
+           given={Peter\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0e09f2f1abb7df02c20501fe9ab40717}{%
+           family={Kubáň},
+           familyi={K\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{2712fae233f182936f310c0ef614af0a}
+      \strng{fullhash}{2712fae233f182936f310c0ef614af0a}
+      \strng{fullhashraw}{2712fae233f182936f310c0ef614af0a}
+      \strng{bibnamehash}{2712fae233f182936f310c0ef614af0a}
+      \strng{authorbibnamehash}{2712fae233f182936f310c0ef614af0a}
+      \strng{authornamehash}{2712fae233f182936f310c0ef614af0a}
+      \strng{authorfullhash}{2712fae233f182936f310c0ef614af0a}
+      \strng{authorfullhashraw}{2712fae233f182936f310c0ef614af0a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{46}
+      \field{issn}{1522-2683}
+      \field{journaltitle}{Electrophoresis}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{shortjournal}{Electrophoresis}
+      \field{title}{Contactless Conductivity Detection for Capillary Electrophoresis---Developments From 2020 to 2024}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{number}{13\bibrangedash 14}
+      \range{number}{2}
+      \field{pages}{829\bibrangedash 862}
+      \range{pages}{34}
+      \field{volume}{46}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1002/elps.202400217
+      \endverb
+    \endentry
+    \entry{pndf14123428218}{standard}{}{}
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {ФГБУ «ФЦАО»}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{ПНД Ф 14.1:2:3:4.282-18 Количественный химический анализ вод. Методика измерений массовой концентрации хлорид-ионов, нитрит-ионов, сульфат-ионов, нитрат-ионов, фторид-ионов и фосфат-ионов в пробах природных, питьевых и сточных вод с применением системы капиллярного электрофореза «Капель»}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{number}{ПНД Ф 14.1:2:3:4.282\bibrangedash 18}
+      \range{number}{-1}
+      \verb{urlraw}
+      \verb https://www.lumex.ru/metodics/M01-44-2015.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.lumex.ru/metodics/M01-44-2015.pdf
+      \endverb
+    \endentry
+    \entry{liPushingLimitsCapacitively2024}{article}{useauthor=false}{}
+      \name{author}{9}{}{%
+        {{hash=1df2b6f67a5a1fe41f9bc9df027cdb34}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b863c8954e88eb9cf6fac7d2486c635c}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Dou-Dou},
+           giveni={D\bibinithyphendelim D\bibinitperiod}}}%
+        {{hash=22ef37ca3f74f6f827e66fa8d7dd9422}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Peng-Yu},
+           giveni={P\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=661b0c9c547df39bdf77a2a1b986b6f0}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Yun-Peng},
+           giveni={Y\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=02d8b018e91f47ca5522c306644ab5fb}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Tang-Xiu},
+           giveni={T\bibinithyphendelim X\bibinitperiod}}}%
+        {{hash=da16d85bad3413ce1cc112b472e7e061}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Ming-Hui},
+           giveni={M\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=99d0d9392457c6950975354e69d9302b}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jia-Nan},
+           giveni={J\bibinithyphendelim N\bibinitperiod}}}%
+        {{hash=2b37b3016aa8f759b5f3c3f37dedec23}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=68a0924abea639096c658b28fb4a789b}{%
+           family={Pu},
+           familyi={P\bibinitperiod},
+           given={Qiaosheng},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{fa48922f8f8fb975f7b545b2f049f451}
+      \strng{authornamehash}{fa48922f8f8fb975f7b545b2f049f451}
+      \strng{authorfullhash}{a594ac1ee28f6e86fe83062da54018b2}
+      \strng{authorfullhashraw}{a594ac1ee28f6e86fe83062da54018b2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{internalsortvolume}{96}
+      \field{issn}{0003-2700}
+      \field{journaltitle}{Analytical Chemistry}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{shortjournal}{Anal. Chem.}
+      \field{title}{Pushing the Limits of Capacitively Coupled Contactless Conductivity Detection for Capillary Electrophoresis}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{number}{24}
+      \range{number}{1}
+      \field{pages}{9876\bibrangedash 9884}
+      \range{pages}{9}
+      \field{volume}{96}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1021/acs.analchem.4c00969
+      \endverb
+    \endentry
+    \entry{jorgensonZoneElectrophoresisOpenTubular1981}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=c52ed59ac267f93684eef90794596917}{%
+           family={Jorgenson},
+           familyi={J\bibinitperiod},
+           given={James\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=cff9df9ad60ed49e3dbf2782b979dd44}{%
+           family={Lukacs},
+           familyi={L\bibinitperiod},
+           given={Krynn\bibnamedelima DeArman},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \strng{fullhash}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \strng{fullhashraw}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \strng{bibnamehash}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \strng{authorbibnamehash}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \strng{authornamehash}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \strng{authorfullhash}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \strng{authorfullhashraw}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{53}
+      \field{journaltitle}{Analytical Chemistry}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{title}{Zone electrophoresis in open-tubular glass capillaries}
+      \field{year}{1981}
+      \field{dateera}{ce}
+      \field{number}{8}
+      \range{number}{1}
+      \field{pages}{1298\bibrangedash 1302}
+      \range{pages}{5}
+      \field{volume}{53}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1021/ac00231a025
+      \endverb
+    \endentry
+    \entry{jorgensonFreeZoneElectrophoresisGlass1981}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=c52ed59ac267f93684eef90794596917}{%
+           family={Jorgenson},
+           familyi={J\bibinitperiod},
+           given={James\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=cff9df9ad60ed49e3dbf2782b979dd44}{%
+           family={Lukacs},
+           familyi={L\bibinitperiod},
+           given={Krynn\bibnamedelima DeArman},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \strng{fullhash}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \strng{fullhashraw}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \strng{bibnamehash}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \strng{authorbibnamehash}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \strng{authornamehash}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \strng{authorfullhash}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \strng{authorfullhashraw}{e10f869e2ea8dc5f96e9270f44cb7368}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{27}
+      \field{journaltitle}{Clinical Chemistry}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{title}{Free-zone electrophoresis in glass capillaries}
+      \field{year}{1981}
+      \field{dateera}{ce}
+      \field{number}{11}
+      \range{number}{1}
+      \field{pages}{1551\bibrangedash 1553}
+      \range{pages}{3}
+      \field{volume}{27}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1093/clinchem/27.11.1551
+      \endverb
+    \endentry
+    \entry{komarova2006prakticheskoe}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=5f1dc4a88eafcdaaac39e2f67490d978}{%
+           family={Комарова},
+           familyi={К\bibinitperiod},
+           given={Н.\bibnamedelimi В.},
+           giveni={Н\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=c0268ccd13f04fb623c898c00a2c7b53}{%
+           family={Каменцев},
+           familyi={К\bibinitperiod},
+           given={Я.\bibnamedelimi С.},
+           giveni={Я\bibinitperiod\bibinitdelim С\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {СПб.}%
+      }
+      \list{publisher}{1}{%
+        {ООО «Веда»}%
+      }
+      \strng{namehash}{4f6787712b1c803b0e657fffbde2b483}
+      \strng{fullhash}{4f6787712b1c803b0e657fffbde2b483}
+      \strng{fullhashraw}{4f6787712b1c803b0e657fffbde2b483}
+      \strng{bibnamehash}{4f6787712b1c803b0e657fffbde2b483}
+      \strng{authorbibnamehash}{4f6787712b1c803b0e657fffbde2b483}
+      \strng{authornamehash}{4f6787712b1c803b0e657fffbde2b483}
+      \strng{authorfullhash}{4f6787712b1c803b0e657fffbde2b483}
+      \strng{authorfullhashraw}{4f6787712b1c803b0e657fffbde2b483}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{5-903297-01-3}
+      \field{langid}{russian}
+      \field{pagetotal}{212}
+      \field{title}{Практическое руководство по использованию систем капиллярного электрофореза «КАПЕЛЬ»}
+      \field{year}{2006}
+      \field{dateera}{ce}
+    \endentry
+    \entry{shelekhovaOpredelenieAnionovNeorganicheskikh2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=78a72eeeaf52be4ba3c1cae7c0ade8da}{%
+           family={Шелехова},
+           familyi={Ш\bibinitperiod},
+           given={Н.\bibnamedelimi В.},
+           giveni={Н\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=f76645a34f93eb6fdcf9e97ecd4fe3fb}{%
+           family={Абрамова},
+           familyi={А\bibinitperiod},
+           given={И.\bibnamedelimi М.},
+           giveni={И\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+        {{hash=8f384705eaf3389cec71e49d11d2ecea}{%
+           family={Шелехова},
+           familyi={Ш\bibinitperiod},
+           given={Т.\bibnamedelimi М.},
+           giveni={Т\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+      }
+      \strng{namehash}{b4b281455e24241d9bd4424a1b4c5fe7}
+      \strng{fullhash}{b4b281455e24241d9bd4424a1b4c5fe7}
+      \strng{fullhashraw}{b4b281455e24241d9bd4424a1b4c5fe7}
+      \strng{bibnamehash}{b4b281455e24241d9bd4424a1b4c5fe7}
+      \strng{authorbibnamehash}{b4b281455e24241d9bd4424a1b4c5fe7}
+      \strng{authornamehash}{b4b281455e24241d9bd4424a1b4c5fe7}
+      \strng{authorfullhash}{b4b281455e24241d9bd4424a1b4c5fe7}
+      \strng{authorfullhashraw}{b4b281455e24241d9bd4424a1b4c5fe7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{53}
+      \field{journaltitle}{Техника и технология пищевых производств}
+      \field{langid}{russian}
+      \field{title}{Определение анионов неорганических кислот в спиртных дистиллированных напитках методом капиллярного электрофореза с кондуктометрическим детектированием}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{796\bibrangedash 806}
+      \range{pages}{11}
+      \field{volume}{53}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.21603/2074-9414-2023-4-2479
+      \endverb
+    \endentry
+    \entry{sailaukhanulyPreliminaryStudyAssessment2022}{article}{useauthor=false}{}
+      \name{author}{8}{}{%
+        {{hash=446a3cfe9c8665fd1ccf1de34582b6ca}{%
+           family={Sailaukhanuly},
+           familyi={S\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b1ec0178d3c3b30f8ba6bc50553dcd45}{%
+           family={Popova},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=97a2726adb62b5db401c0e78614ae8f2}{%
+           family={Mansur},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9a559870934e4079e41b755957b86a73}{%
+           family={Bexeitova},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=e7360bf1c9db0c65ad70c4c01e81e7f7}{%
+           family={Azat},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d6f7bc052ff1a9918b5fb0ceff83e829}{%
+           family={Toshtay},
+           familyi={T\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=56fcf65291f74ae173d59684b0aa1ab3}{%
+           family={Tovassarov},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5946c9ee0e896b193527bea3c410311d}{%
+           family={Tasmagambetova},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{27a4b82eb6e3d7e7c1b7250fffcc3ef5}
+      \strng{authornamehash}{27a4b82eb6e3d7e7c1b7250fffcc3ef5}
+      \strng{authorfullhash}{900d1ba86b8770ca574713880d5fc6dd}
+      \strng{authorfullhashraw}{900d1ba86b8770ca574713880d5fc6dd}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{24}
+      \field{journaltitle}{Eurasian Chemico-Technological Journal}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{title}{Preliminary Study and Assessment of Drinking Water from Almaty, Kazakhstan}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{341\bibrangedash 350}
+      \range{pages}{10}
+      \field{volume}{24}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.18321/ectj1461
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
