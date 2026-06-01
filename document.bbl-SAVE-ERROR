@@ -110,6 +110,483 @@
       \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC8625978/
       \endverb
     \endentry
+    \entry{kaushalFreshwaterSalinizationSyndrome2021}{article}{useauthor=false}{}
+      \name{author}{20}{}{%
+        {{hash=d39568f5e3ef197a9d6ef4f6b413c28f}{%
+           family={Kaushal},
+           familyi={K\bibinitperiod},
+           given={Sujay},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7fe0c368b63616c3f65c9fabb7a25e88}{%
+           family={Likens},
+           familyi={L\bibinitperiod},
+           given={Gene},
+           giveni={G\bibinitperiod}}}%
+        {{hash=995808d9db52bf75696ddc2cb7d1d308}{%
+           family={Pace},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ceb64942969494cb224f690509641cb2}{%
+           family={Reimer},
+           familyi={R\bibinitperiod},
+           given={Jenna},
+           giveni={J\bibinitperiod}}}%
+        {{hash=809c62079aed541f1d60e93c437e4d45}{%
+           family={Maas},
+           familyi={M\bibinitperiod},
+           given={Carly},
+           giveni={C\bibinitperiod}}}%
+        {{hash=fe788bbb6ff875fec969ab716d482f1d}{%
+           family={Galella},
+           familyi={G\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1f5d5a0e687c3bca7216b3fc89c9a1c7}{%
+           family={Utz},
+           familyi={U\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bac6865fddf9556f12ba845f8858a5a2}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Shuiwang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7b6734e50c11f7b6082784a723ebd7fd}{%
+           family={Kryger},
+           familyi={K\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e00172fbacf7ed42d3d56af2c650646f}{%
+           family={Yaculak},
+           familyi={Y\bibinitperiod},
+           given={Alexis},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b06c25e62813e48871045f16dbc42b50}{%
+           family={Boger},
+           familyi={B\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod}}}%
+        {{hash=71a9d2350aa6462a23da8a1eaddb03de}{%
+           family={Bailey},
+           familyi={B\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e9221c3b4e84455d2e518b8e3a9d6286}{%
+           family={Haq},
+           familyi={H\bibinitperiod},
+           given={Shahan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1de3ac3a081d1aee22928d6b90b9b44b}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={Kelsey},
+           giveni={K\bibinitperiod}}}%
+        {{hash=e8cfbf4f151529d82cf1d6c94ebeaf58}{%
+           family={Wessel},
+           familyi={W\bibinitperiod},
+           given={Barret},
+           giveni={B\bibinitperiod}}}%
+        {{hash=070d66770d151da9d96418fbfa91acc5}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Cedric},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3ad198f895bdac6626f96cc7f29b1d77}{%
+           family={Collison},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b6baf6506e9c90365ad53b246f322878}{%
+           family={Aisin},
+           familyi={A\bibinitperiod},
+           given={Belie},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6f94ec9e099163d973db7a38c7774a0e}{%
+           family={Gedeon},
+           familyi={G\bibinitperiod},
+           given={Taylor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f53acbaa6358fd443dfe924a18c1656e}{%
+           family={Woglo},
+           familyi={W\bibinitperiod},
+           given={Seyram},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{320b978356ac2c571682c5ed3698464e}
+      \strng{authornamehash}{320b978356ac2c571682c5ed3698464e}
+      \strng{authorfullhash}{df1c354ac2306d8b08ced586eeba56cf}
+      \strng{authorfullhashraw}{df1c354ac2306d8b08ced586eeba56cf}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Freshwater salinization is an emerging global problem impacting safe drinking water, ecosystem health and biodiversity, infrastructure corrosion, and food production. Freshwater salinization originates from diverse anthropogenic and geologic sources including road salts, human-accelerated weathering, sewage, urban construction, fertilizer, mine drainage, resource extraction, water softeners, saltwater intrusion, and evaporative concentration of ions due to hydrologic alterations and climate change. The complex interrelationships between salt ions and chemical, biological, and geologic parameters and consequences on the natural, social, and built environment are called Freshwater Salinization Syndrome (FSS). Here, we provide a comprehensive overview of salinization issues (past, present, and future), and we investigate drivers and solutions. We analyze the expanding global magnitude and scope of FSS including its discovery in humid regions, connections to human-accelerated weathering and mobilization of ‘chemical cocktails.’ We also present data illustrating: (1) increasing trends in salt ion concentrations in some of the world’s major freshwaters, including critical drinking water supplies; (2) decreasing trends in nutrient concentrations in rivers due to regulations but increasing trends in salinization, which have been due to lack of adequate management and regulations; (3) regional trends in atmospheric deposition of salt ions and storage of salt ions in soils and groundwater, and (4) applications of specific conductance as a proxy for tracking sources and concentrations of groups of elements in freshwaters. We prioritize FSS research needs related to better understanding: (1) effects of saltwater intrusion on ecosystem processes, (2) potential health risks from groundwater contamination of home wells, (3) potential risks to clean and safe drinking water sources, (4) economic and safety impacts of infrastructure corrosion, (5) alteration of biodiversity and ecosystem functions, and (6) application of high-frequency sensors in state-of-the art monitoring and management. We evaluate management solutions using a watershed approach spanning air, land, and water to explore variations in sources, fate and transport of different salt ions ( e.g. monitoring of atmospheric deposition of ions, stormwater management, groundwater remediation, and managing road runoff). We also identify tradeoffs in management approaches such as unanticipated retention and release of chemical cocktails from urban stormwater management best management practices (BMPs) and unintended consequences of alternative deicers on water quality. Overall, we show that FSS has direct and indirect effects on mobilization of diverse chemical cocktails of ions, metals, nutrients, organics, and radionuclides in freshwaters with mounting impacts. Our comprehensive review suggests what could happen if FSS were not managed into the future and evaluates strategies for reducing increasing risks to clean and safe drinking water, human health, costly infrastructure, biodiversity, and critical ecosystem services.}
+      \field{day}{12}
+      \field{internalsortvolume}{154}
+      \field{journaltitle}{Biogeochemistry}
+      \field{month}{4}
+      \field{shortjournal}{Biogeochemistry}
+      \field{shorttitle}{Freshwater Salinization Syndrome}
+      \field{title}{Freshwater Salinization Syndrome: From Emerging Global Problem to Managing Risks}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{volume}{154}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s10533-021-00784-w
+      \endverb
+      \verb{file}
+      \verb /home/delta/Zotero/storage/NE4G3NLD/Kaushal et al. - 2021 - Freshwater salinization syndrome from emerging global problem to managing risks.pdf
+      \endverb
+    \endentry
+    \entry{oliverImpactsClimateChange2024}{article}{useauthor=false}{}
+      \name{author}{6}{}{%
+        {{hash=9060ad751156c5a158475b5b1e14937a}{%
+           family={Oliver},
+           familyi={O\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ba72ef68d4fb0f9403b6907f2d711917}{%
+           family={Kurylyk},
+           familyi={K\bibinitperiod},
+           given={Barret},
+           giveni={B\bibinitperiod}}}%
+        {{hash=930cdf0c7bdb6ea0e9f30bd22ee2506c}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={Lindsay},
+           giveni={L\bibinitperiod}}}%
+        {{hash=73df3e196b3aabfd776cb14b6bb9e640}{%
+           family={LeRoux},
+           familyi={L\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6a60b30040164e94cc69af8024006599}{%
+           family={Somers},
+           familyi={S\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d5053edf7a24589669dba3db4554cf54}{%
+           family={Jamieson},
+           familyi={J\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c241bb12a6793f975ad801412a9e0c76}
+      \strng{authornamehash}{c241bb12a6793f975ad801412a9e0c76}
+      \strng{authorfullhash}{132719839794eb6aeac5c218b506e826}
+      \strng{authorfullhashraw}{132719839794eb6aeac5c218b506e826}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Anthropogenic climate change and associated increasing nutrient loading to coasts will worsen coastal eutrophication on a global scale. Basin Head is a coastal lagoon located in northeastern Prince Edward Island, Canada, with a federally protected ecosystem. Nitrate-nitrogen (NO3-N) is conveyed from agricultural fields in the watershed to the eutrophic lagoon via intertidal groundwater springs and groundwater-dominated tributaries. A field program focused on four main tributaries that discharge into the lagoon was conducted to measure year-round NO3-N loading. These measurements were used to calibrate a SWAT+ hydrologic model capable of simulating hydrologic and NO3-N loads to the lagoon. Several climate change scenarios incorporating different agricultural best management practices (BMPs) were simulated to better understand potential future NO3-N loading dynamics. Results indicate that all climate change scenarios produced increased annual NO3-N loading to the lagoon when comparing historical (1990–2020) to end of century time periods (2070–2100); however, only one climate scenario (MRI-ESM2-0 SSP5-8.5) resulted in a statistically significant (p-value {$<$}0.05) increase. Enlarged buffer strips and delayed tillage BMP simulations produced small (0\%–8\%) effects on loading, while changing the crop rotation from potato-barley-clover to potato-soybean-barley yielded a small reduction in NO3-N loading between the historical period and the end of the century (26\%–33\%). Modeling revealed changes in seasonal loading dynamics under climate change where NO3-N loads remained more consistent throughout the year as opposed to current conditions where the dominant load is in the spring. An increase in baseflow contributions to streamflow was also noted under climate change, with the largest change occurring in the winter (e.g., up to a five-fold increase in February). These findings have direct implications for coastal management in groundwater-dominated agricultural watersheds in a changing climate.}
+      \field{day}{27}
+      \field{internalsortvolume}{12}
+      \field{journaltitle}{Frontiers in Environmental Science}
+      \field{month}{8}
+      \field{shortjournal}{Frontiers in Environmental Science}
+      \field{title}{Impacts of Climate Change and Best Management Practices on Nitrate Loading to a Eutrophic Coastal Lagoon}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{volume}{12}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3389/fenvs.2024.1468869
+      \endverb
+      \verb{file}
+      \verb /home/delta/Zotero/storage/XH5X98CF/Oliver et al. - 2024 - Impacts of climate change and best management practices on nitrate loading to a eutrophic coastal la.pdf
+      \endverb
+    \endentry
+    \entry{arndtOnlineHighresolutionRealtime2026}{article}{useauthor=false}{}
+      \name{author}{6}{}{%
+        {{hash=c446e20206317167855a4df33619720f}{%
+           family={Arndt},
+           familyi={A\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a35937fe667dd8057062240ab34dade1}{%
+           family={Gerloff},
+           familyi={G\bibinitperiod},
+           given={Anna-Lena},
+           giveni={A\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=d37ab3c1c15a59675fa1b60f60c314f0}{%
+           family={Zavarsky},
+           familyi={Z\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d0ac00dc1dde1a108b24daa29fa4fcf4}{%
+           family={Schlüsener},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=3a09035129a86f3d5ebaa8ed6f4c8323}{%
+           family={Wick},
+           familyi={W\bibinitperiod},
+           given={Arne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1cb0301d0df780f2fe814c4025c3ffab}{%
+           family={Duester},
+           familyi={D\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{2fa484ca2978ba2551752bc53bca0bc3}
+      \strng{authornamehash}{2fa484ca2978ba2551752bc53bca0bc3}
+      \strng{authorfullhash}{cec3ecb2499d030d66b612e2316321d0}
+      \strng{authorfullhashraw}{cec3ecb2499d030d66b612e2316321d0}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{abstract}{High-resolution real-time monitoring gains increasing importance in environmental monitoring. We employed and evaluated three real-time monitoring techniques to monitor anions at the river Rhine in Koblenz, Germany. These are a sensor for nitrate in situ and ex situ, a colorimetric device for nitrate and nitrite, and an online ion chromatography (IC) for fluoride, bromide, chloride, nitrate, nitrite, phosphate, and sulfate. The optical sensor performed well ex situ while in situ, a higher maintenance effort was needed due to fouling processes. Colorimetry failed to analyze and notify when solutions fouled and required a very high amount of maintenance to reliably analyze nitrate and nitrite. The online-IC was feasible for analyzing seven anions with a low amount of maintenance once the required infrastructure for the instrument was provided. The online high-resolution IC data was compared with conventional monitoring data with, e.g., a routine interval of two weeks, which was shown to fail to capture peak concentrations during high discharge events. Additionally, to monitor short-term events, like the shortest registered peaks of 5~h, monitoring intervals of at least 2~h at the river Rhine are needed. By extending the IC time series to 2.5~years supported by principal component analysis, a dendrogram clustering, and event analysis by QC-diagrams, two major groups of anions were visible. The first group includes discharge-driven anions such as chloride, bromide, sulfate, and fluoride, with fluoride being additionally influenced by the equilibrium precipitation of fluorite. The second group consists of seasonal-driven anions like nitrate, nitrite, and phosphate, with phosphate being also affected by short-term events and hence, remains to be an important indicator in online monitoring setups. To get a complete picture, anion analyses can be combined with, e.g., element or non-target analyses.}
+      \field{day}{13}
+      \field{eprinttype}{pubmed}
+      \field{internalsortvolume}{198}
+      \field{issn}{1573-2959}
+      \field{journaltitle}{Environmental Monitoring and Assessment}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{shortjournal}{Environ Monit Assess}
+      \field{title}{Online High-Resolution Real-Time Monitoring Techniques for Anions in River Water}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{121}
+      \range{pages}{1}
+      \field{volume}{198}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s10661-025-14954-y
+      \endverb
+      \verb{eprint}
+      \verb 41526745
+      \endverb
+      \verb{file}
+      \verb /home/delta/Zotero/storage/VSU88FYM/Arndt et al. - 2026 - Online high-resolution real-time monitoring techniques for anions in river water.pdf
+      \endverb
+      \keyw{Anions,Colorimetry,Environmental Monitoring,Fluorides,Germany,Ion chromatography,Nitrates,Nitrites,Nutrients,Rhine,Rivers,UV–Vis sensor,Water Pollutants Chemical}
+    \endentry
+    \entry{saalidongExaminingDynamicsRelationship2022}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=a64e5da591c4a892c5fd37a565101d6a}{%
+           family={Saalidong},
+           familyi={S\bibinitperiod},
+           given={Benjamin\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1fda7ce26c7f099487f2a0e4bf5155de}{%
+           family={Aram},
+           familyi={A\bibinitperiod},
+           given={Simon\bibnamedelima Appah},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c60712f37157a2d0a6c07a8ae900d977}{%
+           family={Otu},
+           familyi={O\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c8333751408014a6773c39faaf75119c}{%
+           family={Lartey},
+           familyi={L\bibinitperiod},
+           given={Patrick\bibnamedelima Osei},
+           giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{98f9fddd6df4ad18c2f05b3190e0bf67}
+      \strng{authornamehash}{98f9fddd6df4ad18c2f05b3190e0bf67}
+      \strng{authorfullhash}{75cd7605e3d7c110a70815762a1b38fa}
+      \strng{authorfullhashraw}{75cd7605e3d7c110a70815762a1b38fa}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study evaluated the relationship between water pH and the physicochemical properties of water while controlling for the influence of heavy metals and bacteriological factors using a nested logistic regression model. The study further sought to assess how these relationships are compared across confined water systems (ground water) and open water systems (surface water). Samples were collected from 100 groundwater and 132 surface water locations in the Tarkwa mining area. For the zero-order relationship in groundwater, EC, TDS, TSS, Ca, SO42-, total alkalinity, Zn, Mn, Cu, faecal and total coliform were more likely to predict optimal water pH. For surface water however, only TSS, turbidity, total alkalinity and Ca were significant predictors of optimal pH levels. At the multivariate level for groundwater, TDS, turbidity, total alkalinity and TSS were more likely to predict optimal water pH while EC, Mg, Mn and Zn were associated with non-optimal water pH. For the surface water system, turbidity, Ca, TSS, NO3, Mn and total coliform were associated with optimal water pH while SO42-, EC, Zn, Cu, and faecal coliform were associated with non-optimal water pH. The non-robustness of predictors in the surface water models were conspicuous. The results indicate that the relationship between water pH and other water quality parameters are different in different water systems and can be influenced by the presence of other parameters. Associations between parameters are steadier in groundwater systems due to its confined nature. Extraneous inputs and physical variations subject surface water to constant variations which reflected in the non-robustness of the predictors. However, the carbonate system was influential in how water quality parameters associate with one another in both ground and surface water systems. This study affirms that chemical constituents in natural water bodies react in the environment in far more complicated ways than if they were isolated and that the interaction between various parameters could predict the quality of water in a particular system.}
+      \field{eprinttype}{pubmed}
+      \field{internalsortvolume}{17}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PloS One}
+      \field{langid}{english}
+      \field{shortjournal}{PLoS One}
+      \field{title}{Examining the Dynamics of the Relationship between Water {{pH}} and Other Water Quality Parameters in Ground and Surface Water Systems}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{e0262117}
+      \range{pages}{-1}
+      \field{volume}{17}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0262117
+      \endverb
+      \verb{eprint}
+      \verb 35077475
+      \endverb
+      \verb{file}
+      \verb /home/delta/Zotero/storage/BNCNYQ76/Saalidong et al. - 2022 - Examining the dynamics of the relationship between water pH and other water quality parameters in gr.pdf
+      \endverb
+      \keyw{Environmental Monitoring,Ghana,Groundwater,Hydrogen-Ion Concentration,Metals Heavy,Water Pollutants Chemical,Water Quality}
+    \endentry
+    \entry{kellyNOAAOceanicAtmospheric2025}{article}{useauthor=false}{}
+      \name{author}{9}{}{%
+        {{hash=a812d2075729609806b1aefa60c8ef09}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Kyla},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4ffc8da1c53d2838ba279a5cd6f56a73}{%
+           family={Larkin},
+           familyi={L\bibinitperiod},
+           given={Alyse},
+           giveni={A\bibinitperiod}}}%
+        {{hash=96f42caf9845f6d5dfbe5fa626fa85f7}{%
+           family={MUNRO},
+           familyi={M\bibinitperiod},
+           given={DAVID},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=cd109982f8ef6886da77c91f9fcd2974}{%
+           family={Ombres},
+           familyi={O\bibinitperiod},
+           given={Erica},
+           giveni={E\bibinitperiod}}}%
+        {{hash=ed36857a86e1842d6e3c98e2e2f04fd1}{%
+           family={Wright-Fairbanks},
+           familyi={W\bibinithyphendelim F\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e2049f71f7586c0617f9bed717ccf1b0}{%
+           family={Feely},
+           familyi={F\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e717f08aafb778d6e8d5e83b5b5b5485}{%
+           family={Clevenger},
+           familyi={C\bibinitperiod},
+           given={Samantha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=aaef01e29d2934525ed3c05d93f19283}{%
+           family={Keister},
+           familyi={K\bibinitperiod},
+           given={Elise\bibnamedelima F.},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=9d62a0922358666936c1f8671e179018}{%
+           family={Tedesco},
+           familyi={T\bibinitperiod},
+           given={Kathy},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {NOAA Oceanic and Atmospheric Research}%
+      }
+      \strng{authorbibnamehash}{4be4db89b998ba455522fea0d3184d7a}
+      \strng{authornamehash}{4be4db89b998ba455522fea0d3184d7a}
+      \strng{authorfullhash}{9b650916cb232b58a0e463d3a9f8a4ce}
+      \strng{authorfullhashraw}{9b650916cb232b58a0e463d3a9f8a4ce}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{abstract}{NOAA Oceanic and Atmospheric Research (OAR) is uniquely positioned to provide critical ocean and Great Lakes carbon observations, data, products, and services to end users. The intent of this Science Plan is to outline OAR’s goals related to ocean carbon observing, set priorities, and enable coordination with intra-agency, interagency, and international partners.}
+      \field{langid}{english}
+      \field{title}{{{NOAA Oceanic}} and {{Atmospheric Research Ocean Carbon Observing Science Plan FY25}} to {{FY35}}}
+      \field{urlday}{12}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.25923/G4Z3-B739
+      \endverb
+      \verb{file}
+      \verb /home/delta/Zotero/storage/CTYGHNN6/Kelly et al. - 2025 - NOAA Oceanic and Atmospheric Research Ocean Carbon Observing Science Plan FY25 to FY35.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://repository.library.noaa.gov/view/noaa/70634
+      \endverb
+      \verb{url}
+      \verb https://repository.library.noaa.gov/view/noaa/70634
+      \endverb
+    \endentry
+    \entry{figuerolaReviewMetaAnalysisPotential2021}{article}{useauthor=false}{}
+      \name{author}{8}{}{%
+        {{hash=814319092ff395451328079f6e309d0e}{%
+           family={Figuerola},
+           familyi={F\bibinitperiod},
+           given={Blanca},
+           giveni={B\bibinitperiod}}}%
+        {{hash=50a02462ed1abb9b3c7e5658aa4706cd}{%
+           family={Hancock},
+           familyi={H\bibinitperiod},
+           given={Alyce\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=731e5eeee87ac604f7c2737653d92865}{%
+           family={Bax},
+           familyi={B\bibinitperiod},
+           given={Narissa},
+           giveni={N\bibinitperiod}}}%
+        {{hash=dbae0468c941360d1dd07d3fa206ba7e}{%
+           family={Cummings},
+           familyi={C\bibinitperiod},
+           given={Vonda\bibnamedelima J.},
+           giveni={V\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4168980e058f961a477b768a893b5890}{%
+           family={Downey},
+           familyi={D\bibinitperiod},
+           given={Rachel},
+           giveni={R\bibinitperiod}}}%
+        {{hash=54ebfa09cdc7e17d197d4733e33a7bbf}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={Huw\bibnamedelima J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f0a9fc0a01bc1c0b0dc49f66aa96a934}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Jodie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=43dcb37a4027038d33ba96bf30dd4e6f}{%
+           family={Stark},
+           familyi={S\bibinitperiod},
+           given={Jonathan\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{authorbibnamehash}{e06be754fcd0f930a109681a3e807092}
+      \strng{authornamehash}{e06be754fcd0f930a109681a3e807092}
+      \strng{authorfullhash}{77bdb7286a5bfd2c93a8fa9fb0abec93}
+      \strng{authorfullhashraw}{77bdb7286a5bfd2c93a8fa9fb0abec93}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Understanding the vulnerability of marine calcifiers to ocean acidification is a critical issue, especially in the Southern Ocean (SO), which is likely to be the one of the first, and most severely affected regions. Since the industrial revolution, \textasciitilde 30\% of anthropogenic CO2 has been absorbed by the global oceans. Average surface seawater pH levels have already decreased by 0.1 and are projected to decline by \textasciitilde{} 0.3 by the year 2100. This process, known as ocean acidification (OA), is shallowing the saturation horizon, which is the depth below which calcium carbonate (CaCO3) dissolves, likely increasing the vulnerability of many resident marine calcifiers to dissolution. The negative impact of OA may be seen first in species depositing more soluble CaCO3 mineral phases such as aragonite and high-Mg calcite (HMC). Ocean warming could further exacerbate the effects of OA in these particular species. Here we combine a review and a quantitative meta-analysis to provide an overview of the current state of knowledge about skeletal mineralogy of major taxonomic groups of SO marine calcifiers and to make projections about how OA might affect a broad range of SO taxa. We consider a species’ geographic range, skeletal mineralogy, biological traits and potential strategies to overcome OA. The meta-analysis of studies investigating the effects of the OA on a range of biological responses such as shell state, development and growth rate, which illustrates that the response variation is largely dependent on mineralogical composition. Species-specific responses due to mineralogical composition indicate that taxa with calcitic, aragonitic and HMC skeletons, could be at greater risk to expected future carbonate chemistry alterations, and low-Mg calcite (LMC) species could be mostly resilient to these changes. Environmental and biological control on the calcification process and/or Mg content in calcite, biological traits and physiological processes are also expected to influence species specific responses.}
+      \field{day}{29}
+      \field{internalsortvolume}{8}
+      \field{issn}{2296-7745}
+      \field{journaltitle}{Frontiers in Marine Science}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{shortjournal}{Front. Mar. Sci.}
+      \field{title}{A {{Review}} and {{Meta-Analysis}} of {{Potential Impacts}} of {{Ocean Acidification}} on {{Marine Calcifiers From}} the {{Southern Ocean}}}
+      \field{urlday}{12}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{volume}{8}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3389/fmars.2021.584445
+      \endverb
+      \verb{file}
+      \verb /home/delta/Zotero/storage/2KSGBPNV/Figuerola et al. - 2021 - A Review and Meta-Analysis of Potential Impacts of Ocean Acidification on Marine Calcifiers From the.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2021.584445/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2021.584445/full
+      \endverb
+      \keyw{Antarctica,aragonite,Carbonate mineralogy,Climate Change,Magnesium,saturation horizon,Vulnerability}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

@@ -23,6 +23,10 @@
         })
         corefonts # Windows fonts (especially Times New Roman)
       ];
+
+      shellHook = ''
+        export FONTCONFIG_FILE=${pkgs.makeFontsConf { fontDirectories = [ pkgs.corefonts ]; }}
+      '';
     };
   };
 }
