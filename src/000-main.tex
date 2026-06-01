@@ -106,8 +106,10 @@
     parentracker=true,
     backend=biber,
     style=gost-numeric,
-    sorting=none
+    sorting=none,
+    url=false
 ]{biblatex}
+\AtEveryBibitem{\clearfield{urldate}}
 \addbibresource{biblio.bib}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
