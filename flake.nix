@@ -19,7 +19,8 @@
             titlesec
             tocloft
             biber
-            enumitem;
+            enumitem
+            pdfpages;
         })
         corefonts # Windows fonts (especially Times New Roman)
       ];
