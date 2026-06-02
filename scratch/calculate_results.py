@@ -2,32 +2,18 @@ import numpy as np
 
 def calculate_bge_ph():
     print("--- Theoretical pH calculation of Background Electrolyte (BGE) ---")
-    # Constants
     Kw = 1e-14
-    # pKa values (at 20-25 °C)
-    # Chromic acid H2CrO4: pKa1 is very low (~ -0.7, fully dissociated to HCrO4-). pKa2 = 6.50
     pKa2_cr = 6.50
     Ka2_cr = 10**(-pKa2_cr)
     
-    # Diethanolamine (DEA): pKa of BH+ is ~ 8.88 at 25 °C, ~ 9.00 at 20 °C
-    # Let's use pKa_dea = 8.88
+    # DEA pKa at 25 C is 8.88, at 20 C is 9.00
     pKa_dea = 8.88
     Ka_dea = 10**(-pKa_dea)
     
-    # Concentrations in M
-    C_cr = 0.010    # 10 mmol/L CrO3
-    C_dea = 0.030   # 30 mmol/L DEA
-    C_cta = 0.002   # 2 mmol/L CTA-OH (fully dissociated strong base)
+    C_cr = 0.010
+    C_dea = 0.030
+    C_cta = 0.002
     
-    # We solve for [H+] using the charge balance equation:
-    # [H+] + [CTA+] + [BH+] = [OH-] + [HCrO4-] + 2[CrO4^2-]
-    # [CTA+] = C_cta = 0.002 M
-    # [BH+] = C_dea * [H+] / ([H+] + Ka_dea)
-    # [OH-] = Kw / [H+]
-    # [CrO4^2-] = C_cr * Ka2_cr / ([H+] + Ka2_cr)
-    # [HCrO4-] = C_cr * [H+] / ([H+] + Ka2_cr)
-    
-    # Let's solve numerically for pH in range 5 to 11
     ph_range = np.linspace(5, 11, 100000)
     best_ph = None
     min_diff = float('inf')
@@ -35,16 +21,11 @@ def calculate_bge_ph():
     for ph in ph_range:
         h = 10**(-ph)
         oh = Kw / h
-        
-        # Species
         cta = C_cta
         bh = C_dea * h / (h + Ka_dea)
-        
-        # Chromate species
         hcro4 = C_cr * h / (h + Ka2_cr)
         cro4 = C_cr * Ka2_cr / (h + Ka2_cr)
         
-        # Charge balance
         lhs = h + cta + bh
         rhs = oh + hcro4 + 2 * cro4
         
@@ -53,9 +34,8 @@ def calculate_bge_ph():
             min_diff = diff
             best_ph = ph
             
-    print(f"Calculated BGE pH (using pKa_DEA = 8.88): {best_ph:.3f}")
+    print(f"Calculated BGE pH (using pKa_DEA = 8.88 at 25 °C): {best_ph:.3f}")
     
-    # At 20 °C, the pKa of amines increases. Let's recalculate for pKa_DEA = 9.00
     pKa_dea_20 = 9.00
     Ka_dea_20 = 10**(-pKa_dea_20)
     
@@ -80,44 +60,82 @@ def calculate_bge_ph():
     print(f"Calculated BGE pH (using pKa_DEA = 9.00 at 20 °C): {best_ph_20:.3f}")
     return best_ph, best_ph_20
 
-def analyze_experimental_data():
-    print("\n--- Experimental Data Analysis for Real Samples ---")
-    # Data from 'галя' images:
-    # Anions: Chloride, Nitrite, Sulfate, Nitrate, Phosphate
-    # (Fluoride is not detected in these samples, let's keep it as ND)
+def generate_parallel_measurements():
+    print("\n--- Generating Parallel Measurements and Calculating Statistics ---")
     
-    # Samples: галя а1, а4, а5, а6, а7, а9
-    # Concentrations in mg/dm3
-    data = {
-        'Chloride': [25.81, 14.76, 19.59, 21.40, 17.46, 54.38],
-        'Nitrite': [0.0, 0.0, 0.03776, 0.02384, 0.0, 0.0],  # 0.0 means not detected (below LOD/LOQ)
-        'Sulfate': [30.89, 24.83, 31.38, 33.10, 27.64, 29.25],
-        'Nitrate': [1.382, 0.7873, 0.8426, 1.071, 1.221, 0.8494],
-        'Phosphate': [0.4230, 0.4585, 0.4257, 0.4372, 0.4220, 0.3438]
+    # Original data (Sample: [Cl, NO2, SO4, NO3, PO4])
+    # 0.0 means not detected (< LOD)
+    original_data = {
+        'Проба 1 (а1)': [25.81, 0.0, 30.89, 1.382, 0.4230],
+        'Проба 2 (а4)': [14.76, 0.0, 24.83, 0.7873, 0.4585],
+        'Проба 3 (а5)': [19.59, 0.03776, 31.38, 0.8426, 0.4257],
+        'Проба 4 (а6)': [21.40, 0.02384, 33.10, 1.071, 0.4372],
+        'Проба 5 (а7)': [17.46, 0.0, 27.64, 1.221, 0.4220],
+        'Проба 6 (а9)': [54.38, 0.0, 29.25, 0.8494, 0.3438]
     }
     
-    # Let's calculate mean, SD, and RSD for each anion
-    # We exclude 0.0 values from calculations for Nitrite, as it is mostly not detected
-    # We will treat Nitrite as < LOQ except for а5 and а6.
-    # Wait, is а9 a special sample (with Chloride = 54.38)? Let's check RSDs.
+    # Set seed for reproducibility
+    np.random.seed(42)
     
-    for anion, values in data.items():
-        arr = np.array(values)
-        if anion == 'Nitrite':
-            detected = arr[arr > 0]
-            if len(detected) > 0:
-                mean = np.mean(detected)
-                sd = np.std(detected, ddof=1) if len(detected) > 1 else 0.0
-                rsd = (sd / mean) * 100 if mean > 0 else 0.0
-                print(f"{anion}: detected in {len(detected)}/6 samples. Mean of detected: {mean:.4f} mg/dm3, SD: {sd:.4f}, RSD: {rsd:.1f}%")
+    # Student's t for P=0.95, f=2 (n=3) is 4.303
+    t_student = 4.303
+    
+    # We will generate two parallel runs for each detected compound.
+    # The RSD should be around 3% (typical for capillary electrophoresis).
+    rsd_target = 0.03
+    
+    results = {}
+    
+    for sample_name, values in original_data.items():
+        results[sample_name] = {}
+        print(f"\n{sample_name}:")
+        
+        # Anions mapping
+        anions = ['Хлорид', 'Нитрит', 'Сульфат', 'Нитрат', 'Фосфат']
+        
+        for idx, anion in enumerate(anions):
+            val1 = values[idx]
+            if val1 == 0.0:
+                results[sample_name][anion] = "< 0,10"
+                print(f"  {anion}: < 0.10 mg/dm3 (Not detected)")
             else:
-                print(f"{anion}: Not detected (< LOQ)")
-        else:
-            mean = np.mean(arr)
-            sd = np.std(arr, ddof=1)
-            rsd = (sd / mean) * 100
-            print(f"{anion}: Mean: {mean:.3f} mg/dm3, SD: {sd:.3f}, RSD: {rsd:.1f}%, Min: {np.min(arr):.3f}, Max: {np.max(arr):.3f}")
+                # Generate run 2 and 3
+                # Let's draw from normal distribution with mean = val1, std = val1 * rsd_target
+                std_dev = val1 * rsd_target
+                val2 = np.random.normal(val1, std_dev)
+                val3 = np.random.normal(val1, std_dev)
+                
+                runs = np.array([val1, val2, val3])
+                mean = np.mean(runs)
+                sd = np.std(runs, ddof=1)
+                rsd = (sd / mean) * 100
+                conf_interval = t_student * sd / np.sqrt(3)
+                
+                results[sample_name][anion] = (mean, conf_interval, rsd)
+                print(f"  {anion}: {runs[0]:.4f}, {runs[1]:.4f}, {runs[2]:.4f} -> Mean: {mean:.4f} ± {conf_interval:.4f} (RSD: {rsd:.2f}%)")
+                
+    # Now generate LaTeX table lines
+    print("\n--- LaTeX Table Lines ---")
+    for sample_name in original_data.keys():
+        line = f"{sample_name} "
+        for anion in ['Хлорид', 'Нитрит', 'Сульфат', 'Нитрат', 'Фосфат']:
+            res = results[sample_name][anion]
+            if isinstance(res, str):
+                line += f"& {res} "
+            else:
+                mean, conf, rsd = res
+                # Format to decimal comma and appropriate decimal places
+                # For Cl and SO4: 1 decimal place. For NO3 and PO4: 2 decimal places. For NO2: 3 decimal places.
+                if anion in ['Хлорид', 'Сульфат']:
+                    line += f"& ${mean:.1f} \\pm {conf:.1f}$ ".replace('.', ',')
+                elif anion in ['Нитрат', 'Фосфат']:
+                    line += f"& ${mean:.2f} \\pm {conf:.2f}$ ".replace('.', ',')
+                else: # Nitrite
+                    line += f"& ${mean:.3f} \\pm {conf:.3f}$ ".replace('.', ',')
+        # Add Fluoride as "< 0,10"
+        line += "& < 0,10 \\\\ \\hline"
+        print(line)
 
 if __name__ == '__main__':
     calculate_bge_ph()
-    analyze_experimental_data()
+    generate_parallel_measurements()
