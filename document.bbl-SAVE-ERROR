@@ -1924,52 +1924,6 @@
       \field{year}{2006}
       \field{dateera}{ce}
     \endentry
-    \entry{shelekhovaOpredelenieAnionovNeorganicheskikh2023}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=78a72eeeaf52be4ba3c1cae7c0ade8da}{%
-           family={Шелехова},
-           familyi={Ш\bibinitperiod},
-           given={Н.\bibnamedelimi В.},
-           giveni={Н\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
-        {{hash=f76645a34f93eb6fdcf9e97ecd4fe3fb}{%
-           family={Абрамова},
-           familyi={А\bibinitperiod},
-           given={И.\bibnamedelimi М.},
-           giveni={И\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
-        {{hash=8f384705eaf3389cec71e49d11d2ecea}{%
-           family={Шелехова},
-           familyi={Ш\bibinitperiod},
-           given={Т.\bibnamedelimi М.},
-           giveni={Т\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
-      }
-      \strng{namehash}{b4b281455e24241d9bd4424a1b4c5fe7}
-      \strng{fullhash}{b4b281455e24241d9bd4424a1b4c5fe7}
-      \strng{fullhashraw}{b4b281455e24241d9bd4424a1b4c5fe7}
-      \strng{bibnamehash}{b4b281455e24241d9bd4424a1b4c5fe7}
-      \strng{authorbibnamehash}{b4b281455e24241d9bd4424a1b4c5fe7}
-      \strng{authornamehash}{b4b281455e24241d9bd4424a1b4c5fe7}
-      \strng{authorfullhash}{b4b281455e24241d9bd4424a1b4c5fe7}
-      \strng{authorfullhashraw}{b4b281455e24241d9bd4424a1b4c5fe7}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{internalsortvolume}{53}
-      \field{journaltitle}{Техника и технология пищевых производств}
-      \field{langid}{russian}
-      \field{title}{Определение анионов неорганических кислот в спиртных дистиллированных напитках методом капиллярного электрофореза с кондуктометрическим детектированием}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{number}{4}
-      \range{number}{1}
-      \field{pages}{796\bibrangedash 806}
-      \range{pages}{11}
-      \field{volume}{53}
-      \range{volume}{1}
-      \verb{doi}
-      \verb 10.21603/2074-9414-2023-4-2479
-      \endverb
-    \endentry
     \entry{sailaukhanulyPreliminaryStudyAssessment2022}{article}{useauthor=false}{}
       \name{author}{8}{}{%
         {{hash=446a3cfe9c8665fd1ccf1de34582b6ca}{%
