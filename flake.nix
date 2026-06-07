@@ -8,25 +8,19 @@
   outputs = { self, nixpkgs }:
   let
     system = "x86_64-linux";
-    pkgs = nixpkgs.legacyPackages.${system};
+    pkgs = import nixpkgs {
+      inherit system;
+      config.allowUnfree = true;
+    };
   in {
-    devShells.${system}.default = pkgs.mkShell {
+    devShells.${system}.default = pkgs.mkShellNoCC {
       buildInputs = with pkgs; [
-        (texlive.combine {
-          inherit (texlive) scheme-medium
-            biblatex biblatex-gost
-            extsizes
-            titlesec
-            tocloft
-            biber
-            enumitem
-            pdfpages;
-        })
+        tinymist
         corefonts # Windows fonts (especially Times New Roman)
       ];
 
       shellHook = ''
-        export FONTCONFIG_FILE=${pkgs.makeFontsConf { fontDirectories = [ pkgs.corefonts ]; }}
+        export TYPST_FONT_PATHS="${pkgs.corefonts}/share/fonts/truetype"
       '';
     };
   };

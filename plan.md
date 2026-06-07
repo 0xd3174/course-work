@@ -1,1 +1,0 @@
-/home/delta/code/quartz/content/plan.md
