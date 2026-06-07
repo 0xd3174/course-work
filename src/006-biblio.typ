@@ -1,1 +1,1 @@
-#bibliography("../biblio.bib")
+#bibliography("../biblio.bib", title: [Библиографический список])
