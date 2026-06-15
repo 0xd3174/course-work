@@ -1,3 +1,6 @@
-= Приложение А
+#import "@preview/modern-g7-32:0.2.0": appendixes
+#show: appendixes
 
-// TODO: Написать приложения
+= ПРИЛОЖЕНИЕ А
+
+TODO: Написать приложения
